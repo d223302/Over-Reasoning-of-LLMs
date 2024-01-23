@@ -33,7 +33,14 @@ We also discuss that our results and observations in the main content still hold
 ### Cite
 If you use our dataset or find our dataset useful, please cite our paper using
 ```
-
+@misc{chiang2024overreasoning,
+    title={Over-Reasoning and Redundant Calculation of Large Language Models},
+    author={Cheng-Han Chiang and Hung-yi Lee},
+    year={2024},
+    eprint={2401.11467},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
 ```
 
 ### Contact
