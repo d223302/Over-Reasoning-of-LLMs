@@ -1,6 +1,6 @@
 # Over-Reasoning and Redundant Calculation of Large Language Models
 
-This repo contains the code used in our EACL 2024 paper: "Over-Reasoning and Redundant Calculation of Large Language Models".
+This repo contains the codes and dataset used in our EACL 2024 [paper](https://arxiv.org/abs/2401.11467): "Over-Reasoning and Redundant Calculation of Large Language Models".
 
 ### GSM8K-Zero Dataset
 The GSM8k-Zero dataset we constructed is the `gsm8k_zero.json`.
